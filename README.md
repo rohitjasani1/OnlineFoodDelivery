@@ -1,6 +1,6 @@
 ### Munch Square Website
 
-# You can vist our website here by clicking [Munchsquare](https://github.com/facebook/create-react-app)
+# You can vist our website here by clicking(https://github.com/facebook/create-react-app)
 
 # Introduction
 
